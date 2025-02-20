@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\content\\00f5a8fa-7e77-4517-836e-72c381a90c6e.mp4",
+      "PackagePath": "staticwebassets\\uploads\\content\\00f5a8fa-7e77-4517-836e-72c381a90c6e.mp4"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\content\\3d9ebb0d-3942-4bda-808f-13348ef49283.jpg",
+      "PackagePath": "staticwebassets\\uploads\\content\\3d9ebb0d-3942-4bda-808f-13348ef49283.jpg"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\content\\500449ef-3cd2-4d29-b079-7a23042f8302.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\content\\500449ef-3cd2-4d29-b079-7a23042f8302.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\content\\984b648d-75e4-4fc2-b265-627605261255.png",
+      "PackagePath": "staticwebassets\\uploads\\content\\984b648d-75e4-4fc2-b265-627605261255.png"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\content\\9ec77bb9-8f3e-4592-b156-584e4e193b3a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\content\\9ec77bb9-8f3e-4592-b156-584e4e193b3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\cover-photos\\3a685608-b445-4247-8eba-33d28af0e8bc.JPG",
+      "PackagePath": "staticwebassets\\uploads\\cover-photos\\3a685608-b445-4247-8eba-33d28af0e8bc.JPG"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\cover-photos\\4a5959a5-10d6-4606-8359-71bc5be41544.JPG",
+      "PackagePath": "staticwebassets\\uploads\\cover-photos\\4a5959a5-10d6-4606-8359-71bc5be41544.JPG"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\cover-photos\\960b628c-ae44-489e-b280-a047d78bfd67.JPG",
+      "PackagePath": "staticwebassets\\uploads\\cover-photos\\960b628c-ae44-489e-b280-a047d78bfd67.JPG"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\profile-pictures\\3ac17e85-0f2a-44ac-85af-9373d9d2427d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile-pictures\\3ac17e85-0f2a-44ac-85af-9373d9d2427d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\profile-pictures\\5a7f2d81-d6a1-489d-ace9-4e4501762b7d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile-pictures\\5a7f2d81-d6a1-489d-ace9-4e4501762b7d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\wali\\Downloads\\matter(InComplete)\\backend\\backend\\wwwroot\\uploads\\profile-pictures\\e8f30a0a-e61b-4e9c-802a-2a3a11244175.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile-pictures\\e8f30a0a-e61b-4e9c-802a-2a3a11244175.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
